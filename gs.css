@@ -93,3 +93,31 @@ tr:nth-child(even){
     border-style: 2px solid;
     
 }
+
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 15px;  
+  }
+  ul.navbar-horizontal li{
+      float: center;  
+      background-color: rgb(80, 80, 99);
+    }
+    ul.navbar-horizontal a{
+      text-align: center;
+      color: #7a836e;
+      display: block;
+      padding: 5px;
+      margin:10px;
+    }
+    ul.navbar-horizontal a:hover{
+      background-color: rgb(113, 92, 76);
+      color: rgb(129, 92, 99);
+    }
+    li{
+      float: left;
+     
+    }
+    i{
+      color: chocolate;
+      font-size: 200px!important;
+    }
