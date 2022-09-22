@@ -86,3 +86,10 @@ th{
 tr:nth-child(even){
     background-color: rgb(194, 204, 195);
 }
+
+.CHO:hover, .DAM:hover, .WOM:hover, .MEN:hover,.WILFRED:hover,.POINT:hover {
+   
+    text-shadow: 2px 2px 8px #cf7c0f;  
+    border-style: 2px solid;
+    
+}
