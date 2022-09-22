@@ -1,0 +1,61 @@
+.speech{ 
+    color:black;
+    font-size:small;
+    font-style:oblique;
+    text-indent: 15px;
+}
+
+.song{
+    color:black;
+    font-size: medium;
+    font-style: normal;
+    text-indent: 60px;;
+}
+
+.name{
+    color: black;
+    font-size: large;
+    font-style:inherit;
+    text-indent: 80px;
+}
+
+.direction{
+
+    background-color:lightpink;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.direction:hover{
+    background-color:lightblue;
+    color:black;
+}
+
+.CHO{
+    color:cadetblue;
+    font-size: medium;
+    font-style: normal;
+    background-color:yellow;
+}
+
+.DAM{
+    color:blue;
+    font-size: x-large;
+    font-style: oblique;
+    background-color: beige;
+}
+
+.WOM{
+    color:red;
+    font-size: smaller;
+    font-style: italic;
+    background-color: palegreen;
+}
+
+.MEN{
+    color:rgb(150, 19, 41);
+    font-size: x-large;
+    font-style:italic;
+    background-color: paleturquoise;
+}
+
