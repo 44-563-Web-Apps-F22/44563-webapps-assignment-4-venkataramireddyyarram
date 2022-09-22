@@ -60,6 +60,20 @@
     background-color: paleturquoise;
 }
 
+.WILFRED{
+    color:rgb(133, 75, 86);
+    font-size: large;
+    font-style:italic;
+    background-color: rgb(175, 238, 207);
+}
+
+.POINT{
+    color:rgb(159, 156, 78);
+    font-size: x-large;
+    font-style:italic;
+    background-color: rgb(105, 125, 154);
+}
+
 table,
 td,
 th{
