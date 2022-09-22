@@ -60,3 +60,15 @@
     background-color: paleturquoise;
 }
 
+table,
+td,
+th{
+    border:solid 1px;
+    color:rgb(189, 88, 88);
+    text-align: center;
+    padding: 1em;
+    margin: 1px;
+}
+tr:nth-child(even){
+    background-color: rgb(194, 204, 195);
+}
